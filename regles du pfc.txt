@@ -1,0 +1,9 @@
+pierre = 0
+feuille = 1
+ciseaux = 2
+
+Gagne - Perds
+
+pierre - ciseaux
+feuille - pierre
+ciseaux - feuille
